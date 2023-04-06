@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 * 🤓 Creating JS bugs since 2022
-* 📚 I'm currently learning about working with Data and Authentication
+* 📚 I'm currently learning about working with modules
 
 ### Skills
 
