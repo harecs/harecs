@@ -1,19 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zahari Lazarov
-======================================================================================================================================
+Hi 👋 My name is Zahari Lazarov ===============================  JavaScript Programming ----------------------  Coding with JavaScript since 2022  * 🌍  I'm based in Plovdiv * 🚀  I'm currently working on [app about trending crypto coins](http://https://trendingcrypto.glitch.me) * 🧠  I'm learning about modules and app architecture
 
-* 🤓 Creating JS bugs since 2022
-* 📚 I'm currently learning about working with modules
+### Skills  
 
-### Skills
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code“ /></a></p> 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-</div>
+### My GitHub Stats
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?harecshide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=true&username=harecs" height="150" alt="stats graph"  />
-
-###
+<a href="http://www.github.com/harecs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harecs&stroke=64748b&background=22272e&ring=facc15&fire=facc15&currStreakNum=64748b&currStreakLabel=facc15&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
