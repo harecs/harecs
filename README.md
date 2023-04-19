@@ -1,4 +1,11 @@
-Hi 👋 My name is Zahari Lazarov ===============================  JavaScript Programming ----------------------  Coding with JavaScript since 2022  * 🌍  I'm based in Plovdiv * 🚀  I'm currently working on [app about trending crypto coins](http://https://trendingcrypto.glitch.me) * 🧠  I'm learning about modules and app architecture
+Hi 👋 My name is Zahari Lazarov
+===============================
+JavaScript Programming
+----------------------
+Coding with JavaScript since 2022  
+* 🌍  I'm based in Plovdiv
+* 🚀  I'm currently working on [app about trending crypto coins](http://https://trendingcrypto.glitch.me)
+* * 🧠  I'm learning about modules and app architecture
 
 ### Skills  
 
