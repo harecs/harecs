@@ -1,6 +1,6 @@
 Hi 👋 My name is Zahari Lazarov 
 ===============================
-## @SoftUni Student (JavaScript Web Developer)
+## SoftUni Student (JavaScript Web Developer)
   
 * 🌍  I'm based in Plovdiv 
 * 🚀  I'm currently in the SoftUni JS Web Module 
