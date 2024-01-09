@@ -1,10 +1,10 @@
 Hi 👋 My name is Zahari Lazarov 
 ===============================
-## JavaScript Programming
+## @SoftUni Student (JavaScript Web Developer)
   
 * 🌍  I'm based in Plovdiv 
-* 🚀  I'm currently working on an [app about trending crypto coins](https://trendingcrypto.glitch.me) 
-* 🧠  I'm learning about client side rendering
+* 🚀  I'm currently in the SoftUni JS Web Module 
+* 🧠  I'm learning about Node.js
 
 ### I'm using  
 
