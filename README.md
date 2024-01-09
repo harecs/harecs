@@ -7,9 +7,7 @@ Hi 👋 My name is Zahari Lazarov
 * 🧠  I'm learning about Node.js
 
 ### I'm using  
-
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a> <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code" /></a> </p>
-<p align="left"></p>
+![I'm using](https://skillicons.dev/icons?i=js,lit,nodejs,html,css,regex,md,git,github,gitlab,vscode,postman&perline=6)
 
 ### My GitHub Stats
 
