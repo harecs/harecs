@@ -11,4 +11,7 @@ Hi 👋 My name is Zahari Lazarov
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/harecs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harecs&stroke=64748b&background=22272e&ring=facc15&fire=facc15&currStreakNum=64748b&currStreakLabel=facc15&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=harecs&theme=github-dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=harecs&theme=github-light&hide_border=true" />
+</picture>
