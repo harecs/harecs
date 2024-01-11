@@ -15,3 +15,5 @@ Hi 👋 My name is Zahari Lazarov
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=harecs&theme=github-dark&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=harecs&theme=github-light&hide_border=true" />
 </picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harecs&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
